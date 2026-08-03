@@ -69,3 +69,7 @@ Hospital-Appointment-No-Show-Analysis/
 │   └── power_query.png
 └── report/
     └── project_report.pdf
+
+## Conclusion
+
+This project demonstrates an end-to-end data analytics workflow involving data cleaning, exploratory analysis, visualization, and business recommendations. The findings can help healthcare organizations better understand patient attendance behavior and develop strategies to reduce appointment no-shows.
